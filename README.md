@@ -44,7 +44,7 @@
 - I’m currently learning how the JavaScript and Go.
 - I have worked as a teacher on Python.
 
-[CV]() • [LinkedIn]() • [Instagram](https://www.instagram.com/alla_gultseva)
+[CV](https://N0fish.github.io/N0fishCV/N0fish.html) • [LinkedIn]() • [Instagram](https://www.instagram.com/alla_gultseva)
 
 ---
 
