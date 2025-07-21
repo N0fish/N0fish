@@ -53,6 +53,7 @@
 <summary> 42cursus</summary>
 
 - [ft_transcendence](https://github.com/N0fish/ft_transcendence)  
+- [Exams](https://github.com/N0fish/Exam-Rank-02-03-04-05-06)  
 - [inception](https://github.com/N0fish/inception)  
 - [ft_irc](https://github.com/N0fish/ft_irc)  
 - [C++ Modules](https://github.com/N0fish/CPP)  
