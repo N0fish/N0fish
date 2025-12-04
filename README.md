@@ -6,20 +6,26 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    </a>
+
+</p>
+<p align="center">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
+    </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" />
     </a>
 </p>
 <p align="center">
@@ -40,8 +46,8 @@
 ### More about me
 
 - 🎓 **Student at École 42 Paris** - login `algultse`.
-- I’m currently working on Python-Django, Node.js, TypeScript.
-- I’m currently learning how the JavaScript and Go.
+- I’m working with Go and its environment, Python-Django, TypeScript.
+- I’m currently learning software architecture and leveling up frontend skills.
 - I have worked as a teacher on Python.
 
 [CV](https://N0fish.github.io/N0fishCV/N0fish.html) • [LinkedIn](https://www.linkedin.com/in/alla-gultseva) • [Instagram](https://www.instagram.com/alla_gultseva)
@@ -49,6 +55,14 @@
 ---
 
 <br>
+<details>
+<summary> work projects</summary>
+
+- [FrogShort](https://github.com/calqs/FrogShort)  
+- [laposte](https://github.com/monkeydioude/laposte)  
+
+</details>
+
 <details>
 <summary> 42cursus</summary>
 
