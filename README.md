@@ -82,6 +82,7 @@
 <details>
 <summary> 42cursus</summary>
 
+- [MusicRoom](https://github.com/N0fish/MusicRoom)  
 - [leaffliction](https://github.com/N0fish/leaffliction)  
 - [ft_transcendence](https://github.com/N0fish/ft_transcendence)  
 - [Exams](https://github.com/N0fish/Exam-Rank-02-03-04-05-06)  
