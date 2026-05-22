@@ -82,6 +82,8 @@
 <details>
 <summary> 42cursus</summary>
 
+- [dslr](https://github.com/N0fish/dslr)  
+- [Inception-of-Things](https://github.com/N0fish/Inception-of-Things)  
 - [MusicRoom](https://github.com/N0fish/MusicRoom)  
 - [leaffliction](https://github.com/N0fish/leaffliction)  
 - [ft_transcendence](https://github.com/N0fish/ft_transcendence)  
