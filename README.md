@@ -82,6 +82,8 @@
 <details>
 <summary> 42cursus</summary>
 
+- [ft_ality](https://github.com/N0fish/ft_ality)  
+- [ft_turing](https://github.com/N0fish/ft_turing)  
 - [dslr](https://github.com/N0fish/dslr)  
 - [Inception-of-Things](https://github.com/N0fish/Inception-of-Things)  
 - [MusicRoom](https://github.com/N0fish/MusicRoom)  
